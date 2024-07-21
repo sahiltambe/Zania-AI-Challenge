@@ -3,6 +3,9 @@
 
 This project creates an AI agent that extracts answers from a PDF document based on given questions and posts the results on Slack using OpenAI's GPT-3.5 model.
 
+
+## Sample Solution Report
+
 ## Setup
 
 1. Clone the repository:

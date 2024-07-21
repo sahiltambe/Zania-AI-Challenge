@@ -1,4 +1,6 @@
 PyPDF2
+PdfReader
+
 requests
 python-dotenv
 openai==0.28

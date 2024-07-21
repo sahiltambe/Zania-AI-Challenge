@@ -24,7 +24,7 @@ def post_to_slack(message):
 # import requests
 # import json
 
-# SLACK_WEBHOOK_URL = 'https://hooks.slack.com/services/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'
+# SLACK_WEBHOOK_URL = 'https://hooks.slack.com/services/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'
 
 # def post_to_slack(answers):
 #     payload = {
